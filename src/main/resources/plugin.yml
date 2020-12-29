@@ -1,0 +1,16 @@
+name: SeniorTeamTrial
+version: ${project.version}
+main: com.dolphln.seniorteamtrial.SeniorTeamTrial
+api-version: 1.13
+authors: [ Dolphin ]
+description: Trial for SeniorTeam to be freelancer
+website: dolphln.com
+
+commands:
+  spawnnpc:
+    description: Spawn a NPC and run an animation
+    permission: seniorteam.npc
+    aliases: [spawn, npc]
+  npcreload:
+    description: Reload configuration of the plugin
+    permission: seniorteam.reload

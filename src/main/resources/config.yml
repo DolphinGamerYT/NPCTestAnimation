@@ -1,0 +1,5 @@
+npc_spawn:
+  x: 0
+  y: 5
+  z: 0
+  world: world
